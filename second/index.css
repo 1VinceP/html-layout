@@ -1,0 +1,39 @@
+.section_class {
+    height: 90vh;
+    width: 33%;
+    float: left;
+}
+
+.left {
+    background: #4a90e2;
+}
+
+.middle {
+    background: #50e3c2;
+}
+
+.right {
+    background: #b8e986;
+}
+
+.side_box {
+    height: 60vh;
+    width: 32vw;
+    background: #b8e986;
+}
+
+.small_box {
+    height: 30vh;
+    width: 32vw;
+    background: #d0021b;
+    float: left;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 150px;
+}
+
+.small_text {
+    font-size: 30px;
+    font-family: sans-serif;
+    color: white;
+}
